@@ -2,6 +2,7 @@
 
 ## 1.首先安装Python3.0以上的版本，然后安装在C盘的根目录下，如图：
 ![images01.png](images/images01.png)
+### Python安装包链接：[link](https://www.python.org/downloads/)
 
 ## 2.接着要去添加两个Python的系统变量，如图：
 ![images02.png](images/images02.png)
