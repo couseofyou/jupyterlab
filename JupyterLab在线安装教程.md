@@ -1,6 +1,10 @@
 # Jupyter Lab在线安装笔记
 
-## 2.接着要去添加两个ython的系统变量，如图：
+## 1.首先安装Python3.0以上的版本，安装在C盘的根目录下，如图：
+![images01.png](images/images01.png)
+## Python安装包链接：[link](https://www.python.org/downloads/)
+
+## 2.接着要去添加两个python的系统变量，如图：
 ![images02.png](images/images02.png)
 
 ## 3.接着进入Python的Scripts文件夹，如图：
